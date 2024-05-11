@@ -13,5 +13,12 @@ if edad2<edad1:
 else:
     print("tienen el misma edad")
 
+edad = int(input("ingrese edad"))
+hora = int(input("ingrese la hora "))
+
+
+if(edad < 18 and hora <18):
+    print ("eres menor de edad")
+
 
 

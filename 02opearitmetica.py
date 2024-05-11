@@ -22,3 +22,7 @@ suma= numero2 + numero3
 
 
 print(suma)
+
+#comandos para configurar usuario git
+#git config --global user.name "jaquinox"
+#git config --global user.email jaquinox123@gmail.com
